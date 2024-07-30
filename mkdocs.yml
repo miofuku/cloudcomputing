@@ -1,0 +1,69 @@
+# Project Information
+site_name: Cloud Computing 云计算
+site_url: https://miofuku.github.io/cloudcomputing
+site_author: miofuku
+site_description: 云计算虚拟化技术
+docs_dir: docs
+site_dir: site
+
+# Repository
+repo_name: miofuku/cloudcomputing
+repo_url: https://github.com/miofuku/cloudcomputing
+#version: 1.0.0
+
+# Copyright
+copyright: Copyright &copy; 2024 miofuku<br>The website content is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+
+# Configuration
+theme:
+  name: material
+  custom_dir: overrides
+  language: zh
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: white
+      accent: teal
+      toggle:
+        icon: material/theme-light-dark
+        name: 深色模式
+    - scheme: slate
+      primary: black
+      accent: teal
+      toggle:
+        icon: material/theme-light-dark
+        name: 浅色模式
+  font:
+    text: Noto Sans SC
+    code: Fira Code
+
+extra:
+  alternate:
+    - name: 简体中文
+      link: /
+      lang: zh
+    - name: English
+      link: /en/
+      lang: en
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/miofuku
+#    - icon: fontawesome/brands/x-twitter
+#      link: https://twitter.com/krahets
+  generator: false
+  status:
+    new: 最近添加
+
+# Plugins
+plugins:
+  - search
