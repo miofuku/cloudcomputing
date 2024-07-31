@@ -2,4 +2,4 @@
 
 深入理解云计算虚拟技术
 
-[开始阅读](./chapter_cloud_computing/)
+[开始阅读](chapter_0_cloud_computing/)
