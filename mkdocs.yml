@@ -111,13 +111,13 @@ nav:
     - chapter_0_cloud_computing/index.md
   - 第 0 章 &nbsp; 前言:
     - chapter_0_preface/index.md
-    - 0.1 &nbsp; 关于本书: chapter_0_preface/about_the_book.md
-    - 0.2 &nbsp; 如何使用本书: chapter_0_preface/how_to_read.md
-    - 0.3 &nbsp; 小结: chapter_0_preface/summary.md
+    - 0.1 &nbsp; 关于本书: chapter_0_preface/1_about_the_book.md
+    - 0.2 &nbsp; 如何使用本书: chapter_0_preface/2_how_to_read.md
+    - 0.3 &nbsp; 小结: chapter_0_preface/3_summary.md
   - 第 1 章 &nbsp; 初识云计算:
     - chapter_1_introduction/index.md
-    - 0.1 &nbsp; 云计算概述: chapter_1_introduction/about_the_book.md
-    - 0.2 &nbsp; 云计算关键技术简介: chapter_1_introduction/how_to_read.md
-    - 0.3 &nbsp; 云服务模型对比: chapter_1_introduction/summary.md
-    - 0.4 &nbsp; 云部署模型案例分析: chapter_1_introduction/summary.md
-    - 0.5 &nbsp; 小结: chapter_1_introduction/summary.md
+    - 0.1 &nbsp; 云计算概述: chapter_1_introduction/1_concept.md
+    - 0.2 &nbsp; 云计算关键技术简介: chapter_1_introduction/2_key_techniques.md
+    - 0.3 &nbsp; 云服务模型对比: chapter_1_introduction/3_model.md
+    - 0.4 &nbsp; 云部署模型案例分析: chapter_1_introduction/4_deployment_case.md
+    - 0.5 &nbsp; 小结: chapter_1_introduction/5_summary.md
