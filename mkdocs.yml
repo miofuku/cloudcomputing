@@ -104,3 +104,13 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+
+# Page tree
+nav:
+  - 序:
+    - chapter_cloud_computing/index.md
+  - 第 0 章 &nbsp; 前言:
+    - chapter_preface/index.md
+    - 0.1 &nbsp; 关于本书: chapter_preface/about_the_book.md
+    - 0.2 &nbsp; 如何使用本书: chapter_preface/suggestions.md
+    - 0.3 &nbsp; 小结: chapter_preface/summary.md
