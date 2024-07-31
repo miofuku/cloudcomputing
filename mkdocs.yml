@@ -114,3 +114,10 @@ nav:
     - 0.1 &nbsp; 关于本书: chapter_0_preface/about_the_book.md
     - 0.2 &nbsp; 如何使用本书: chapter_0_preface/how_to_read.md
     - 0.3 &nbsp; 小结: chapter_0_preface/summary.md
+  - 第 1 章 &nbsp; 初识云计算:
+    - chapter_1_introduction/index.md
+    - 0.1 &nbsp; 云计算概述: chapter_1_introduction/about_the_book.md
+    - 0.2 &nbsp; 云计算关键技术简介: chapter_1_introduction/how_to_read.md
+    - 0.3 &nbsp; 云服务模型对比: chapter_1_introduction/summary.md
+    - 0.4 &nbsp; 云部署模型案例分析: chapter_1_introduction/summary.md
+    - 0.5 &nbsp; 小结: chapter_1_introduction/summary.md
