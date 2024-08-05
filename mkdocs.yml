@@ -164,9 +164,9 @@ nav:
     - 1.3 &nbsp; 云服务模型对比: chapter_1_introduction/3_model.md
     - 1.4 &nbsp; 云部署模型案例分析: chapter_1_introduction/4_deployment_case.md
     - 1.5 &nbsp; 小结: chapter_1_introduction/5_summary.md
-  - 第 2 章 &nbsp; Linux基础:
-    - chapter_2_linux/index.md
-    - 2.1 &nbsp; Linux操作系统简介: chapter_2_linux/1_introduction.md
-    - 2.2 &nbsp; 常用命令行操作: chapter_2_linux/2_command.md
-    - 2.3 &nbsp; Linux配置: chapter_2_linux/3_config.md
-    - 2.4 &nbsp; 小结: chapter_2_linux/4_summary.md
+#  - 第 2 章 &nbsp; Linux基础:
+#    - chapter_2_linux/index.md
+#    - 2.1 &nbsp; Linux操作系统简介: chapter_2_linux/1_introduction.md
+#    - 2.2 &nbsp; 常用命令行操作: chapter_2_linux/2_command.md
+#    - 2.3 &nbsp; Linux配置: chapter_2_linux/3_config.md
+#    - 2.4 &nbsp; 小结: chapter_2_linux/4_summary.md
